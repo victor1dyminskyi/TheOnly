@@ -2,4 +2,9 @@ ferty
 Ярема - Ярема- Марка - Марк
 
 The new on b1
+<<<<<<< HEAD
 From the comp
+=======
+
+From the website
+>>>>>>> e555e07c08de22a8dd18d001a517de6df9e633c3
