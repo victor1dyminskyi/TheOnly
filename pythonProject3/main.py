@@ -1,0 +1,10 @@
+First_number = int (input("Enter first number "))
+Second_number = int (input("Enter second number "))
+
+print(f"Sum: ", First_number + Second_number)
+print(f"Difference: ", First_number - Second_number)
+print(f"Sum: ", First_number * Second_number)
+print(f"Sum: ", First_number / Second_number)
+print(f"Sum: ", First_number ** Second_number)
+print(f"Sum: ", First_number // Second_number)
+print(f"Sum: ", First_number % Second_number)
